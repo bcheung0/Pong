@@ -14,3 +14,4 @@ For running the game:
 
 
 This game was built following Harvard's free CS50 Game development course.
+![image](https://github.com/bcheung0/Pong/assets/9855299/000a9f3f-9e88-4b52-a19d-fcc3c0ba2d9d)
