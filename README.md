@@ -17,4 +17,7 @@ For running the game:
 You can control the paddles using 'W' and 'S' for Player 1, and Arrow Up and Down for Player 2
 
 This game was built following Harvard's free CS50 Game development course.
+Topics Learned:
+Lua, Love2D, Drawing Shapes and texts, Deltatime and Velocity, Game State, Basic OOP, Box Collision, Sound Effects
+
 
