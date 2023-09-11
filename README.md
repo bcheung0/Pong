@@ -2,6 +2,7 @@
  Pong Game built on Lua using LÖVE2D
 ![image](https://github.com/bcheung0/Pong/assets/9855299/000a9f3f-9e88-4b52-a19d-fcc3c0ba2d9d)
 
+Game is based on Harvard's Game Development Course CS50
 
 For running the game:
 1. You need to have love2d downloaded, love2d.org/#download.
